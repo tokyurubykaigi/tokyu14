@@ -78,7 +78,7 @@ div.event_index h2 {
 
 div.event_index h3 {
 	font-size: 16px;
-	margin-top: 10px
+	margin-top: 10px;
 	margin-left: 2em;
 	padding: 3px;
 	color: #666;
@@ -128,4 +128,9 @@ div.registration_external {
 div.event h2 {
   line-height: 1;
   margin-bottom: 20px;
+}
+
+td.entry_number {
+  text-align: right;
+  padding: 3px 10px;
 }
